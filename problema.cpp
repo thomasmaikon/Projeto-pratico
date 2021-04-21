@@ -202,6 +202,6 @@ dobrando o tamanho da declaracao de variavel short que so cabem 16 bits. */
 	esse valor mostre o OK ou o X na tela. */
 
 //-------------------------------------------------------------------------------------------------------------------------------	
-	system("Pause"); // evita que a tela feiche diretamente, faz permanecer na tela ate que seja apertada alguma outra tecla
+	system("Pause"); // evita que a tela feche diretamente, faz permanecer na tela ate que seja apertada alguma outra tecla
 //-------------------------------------------------------------------------------------------------------------------------------
 }
